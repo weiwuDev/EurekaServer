@@ -1,4 +1,4 @@
-package com.revature;
+package com.weiwudev;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
